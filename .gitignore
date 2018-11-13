@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+giphy_api_key.py
 
 # C extensions
 *.so
